@@ -49,5 +49,7 @@ public class Rectangle extends Figure implements I_sides{
     public double diagonal(){
         return Math.sqrt(length*length+breadth*breadth);
     }
+
+
 }
 
